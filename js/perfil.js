@@ -1,0 +1,1 @@
+const NOME = 'Lucas dos Santos Guimarães';
