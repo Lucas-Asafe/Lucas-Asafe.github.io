@@ -1,1 +1,5 @@
-const NOME = 'Lucas dos Santos Guimar„es';
+const NOME = 'Lucas dos Santos Guimar√£es';
+
+var lblName = document.getElementsByName("nome");
+
+lblName.value = NOME
